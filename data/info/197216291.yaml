@@ -1,88 +1,40 @@
 image:
-- base_url: https://salt.tikicdn.com/ts/product/1e/56/76/5c0a05f44c843286c78388bd260dbc4d.jpg
+- base_url: https://salt.tikicdn.com/media/catalog/producttmp/bd/a7/16/fe61abc4b0e0aa771102c62aa518a352.jpg
   is_gallery: true
   label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/1e/56/76/5c0a05f44c843286c78388bd260dbc4d.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/1e/56/76/5c0a05f44c843286c78388bd260dbc4d.jpg
+  large_url: https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/bd/a7/16/fe61abc4b0e0aa771102c62aa518a352.jpg
+  medium_url: https://salt.tikicdn.com/cache/w300/media/catalog/producttmp/bd/a7/16/fe61abc4b0e0aa771102c62aa518a352.jpg
   position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/1e/56/76/5c0a05f44c843286c78388bd260dbc4d.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/1e/56/76/5c0a05f44c843286c78388bd260dbc4d.jpg
-- base_url: https://salt.tikicdn.com/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg
+  small_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/bd/a7/16/fe61abc4b0e0aa771102c62aa518a352.jpg
+  thumbnail_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/bd/a7/16/fe61abc4b0e0aa771102c62aa518a352.jpg
+- base_url: https://salt.tikicdn.com/media/catalog/producttmp/45/91/98/50487bfa5ac7cbece3259530314b214c.jpg
   is_gallery: true
   label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg
+  large_url: https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/45/91/98/50487bfa5ac7cbece3259530314b214c.jpg
+  medium_url: https://salt.tikicdn.com/cache/w300/media/catalog/producttmp/45/91/98/50487bfa5ac7cbece3259530314b214c.jpg
   position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg
-- base_url: https://salt.tikicdn.com/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg
+  small_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/45/91/98/50487bfa5ac7cbece3259530314b214c.jpg
+  thumbnail_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/45/91/98/50487bfa5ac7cbece3259530314b214c.jpg
+- base_url: https://salt.tikicdn.com/media/catalog/producttmp/c4/b2/89/9559399c53ba69b63ff4a157edaf9757.jpg
   is_gallery: true
   label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg
+  large_url: https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/c4/b2/89/9559399c53ba69b63ff4a157edaf9757.jpg
+  medium_url: https://salt.tikicdn.com/cache/w300/media/catalog/producttmp/c4/b2/89/9559399c53ba69b63ff4a157edaf9757.jpg
   position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg
-- base_url: https://salt.tikicdn.com/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg
+  small_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/c4/b2/89/9559399c53ba69b63ff4a157edaf9757.jpg
+  thumbnail_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/c4/b2/89/9559399c53ba69b63ff4a157edaf9757.jpg
+- base_url: https://salt.tikicdn.com/media/catalog/producttmp/ea/2d/4a/1d4009d95ed56702dce4ddb727e0b790.jpg
   is_gallery: true
   label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg
+  large_url: https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/ea/2d/4a/1d4009d95ed56702dce4ddb727e0b790.jpg
+  medium_url: https://salt.tikicdn.com/cache/w300/media/catalog/producttmp/ea/2d/4a/1d4009d95ed56702dce4ddb727e0b790.jpg
   position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg
-- base_url: https://salt.tikicdn.com/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg
-- base_url: https://salt.tikicdn.com/ts/product/24/df/c4/310f30901cb11c3bd0f5ae2703142f31.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/24/df/c4/310f30901cb11c3bd0f5ae2703142f31.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/24/df/c4/310f30901cb11c3bd0f5ae2703142f31.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/24/df/c4/310f30901cb11c3bd0f5ae2703142f31.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/24/df/c4/310f30901cb11c3bd0f5ae2703142f31.jpg
-- base_url: https://salt.tikicdn.com/ts/product/e9/58/9e/d7434c91eb2083e97a2f294aa99f51c1.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/e9/58/9e/d7434c91eb2083e97a2f294aa99f51c1.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/e9/58/9e/d7434c91eb2083e97a2f294aa99f51c1.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/e9/58/9e/d7434c91eb2083e97a2f294aa99f51c1.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/e9/58/9e/d7434c91eb2083e97a2f294aa99f51c1.jpg
-- base_url: https://salt.tikicdn.com/ts/product/b5/8e/fc/1dd1a893db7b036c97c704c26f024a27.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/b5/8e/fc/1dd1a893db7b036c97c704c26f024a27.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/b5/8e/fc/1dd1a893db7b036c97c704c26f024a27.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/b5/8e/fc/1dd1a893db7b036c97c704c26f024a27.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/b5/8e/fc/1dd1a893db7b036c97c704c26f024a27.jpg
-- base_url: https://salt.tikicdn.com/ts/product/aa/db/c7/9ce27ca69233195aa166ac636c0a6012.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/aa/db/c7/9ce27ca69233195aa166ac636c0a6012.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/aa/db/c7/9ce27ca69233195aa166ac636c0a6012.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/aa/db/c7/9ce27ca69233195aa166ac636c0a6012.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/aa/db/c7/9ce27ca69233195aa166ac636c0a6012.jpg
-- base_url: https://salt.tikicdn.com/ts/product/41/cf/3c/6c4d1d09aae5f92bc5005c35076c4e39.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/41/cf/3c/6c4d1d09aae5f92bc5005c35076c4e39.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/41/cf/3c/6c4d1d09aae5f92bc5005c35076c4e39.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/41/cf/3c/6c4d1d09aae5f92bc5005c35076c4e39.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/41/cf/3c/6c4d1d09aae5f92bc5005c35076c4e39.jpg
+  small_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/ea/2d/4a/1d4009d95ed56702dce4ddb727e0b790.jpg
+  thumbnail_url: https://salt.tikicdn.com/cache/200x280/media/catalog/producttmp/ea/2d/4a/1d4009d95ed56702dce4ddb727e0b790.jpg
 itemid: 197216291
 name: Apple iPhone 14 Pro Max
 shop_location: ''
 shopid: 197216291
 source: tiki
-updated_at: '2023-11-12T17:02:30.016010'
+updated_at: '2023-11-12T17:31:04.544340'
 url: https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
