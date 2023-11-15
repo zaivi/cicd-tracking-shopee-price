@@ -1,12 +1,4 @@
 image:
-- base_url: https://salt.tikicdn.com/ts/product/9e/79/fb/96fa9c3ee49aa059d3819cb2676d58dd.jpg
-  is_gallery: true
-  label: null
-  large_url: https://salt.tikicdn.com/cache/w1200/ts/product/9e/79/fb/96fa9c3ee49aa059d3819cb2676d58dd.jpg
-  medium_url: https://salt.tikicdn.com/cache/w300/ts/product/9e/79/fb/96fa9c3ee49aa059d3819cb2676d58dd.jpg
-  position: null
-  small_url: https://salt.tikicdn.com/cache/200x280/ts/product/9e/79/fb/96fa9c3ee49aa059d3819cb2676d58dd.jpg
-  thumbnail_url: https://salt.tikicdn.com/cache/200x280/ts/product/9e/79/fb/96fa9c3ee49aa059d3819cb2676d58dd.jpg
 - base_url: https://salt.tikicdn.com/ts/product/27/bb/20/3bab9ddb027ad43a6c871c9665b9b8db.jpg
   is_gallery: true
   label: null
@@ -45,5 +37,5 @@ name: "M\xE1y gi\u1EB7t s\u1EA5y LG Inverter 21 kg WT2116SHEG - h\xE0ng ch\xEDnh
 shop_location: ''
 shopid: 214012915
 source: tiki
-updated_at: '2023-11-15T03:31:16.960301'
+updated_at: '2023-11-15T04:07:26.784252'
 url: https://tiki.vn/may-giat-say-lg-inverter-21-kg-wt2116sheg-hang-chinh-hang-chi-giao-hcm-p214012915.html?spid=215738630
