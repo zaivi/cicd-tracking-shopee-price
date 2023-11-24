@@ -7815,3 +7815,4 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1700798842,2023-11-24 04:07:22,197216291,26490000,,0,,,out_of_stock,528,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
 1700800332,2023-11-24 04:32:12,197216291,26490000,,0,,,out_of_stock,528,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
 1700802280,2023-11-24 05:04:40,197216291,26490000,,0,,,out_of_stock,528,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
+1700803880,2023-11-24 05:31:20,197216291,26490000,,0,,,out_of_stock,528,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
