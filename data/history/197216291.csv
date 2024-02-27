@@ -12198,3 +12198,4 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1709014075,2024-02-27 06:07:55,197216291,26490000,,0,,,out_of_stock,530,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
 1709015466,2024-02-27 06:31:06,197216291,26490000,,0,,,out_of_stock,530,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
 1709017602,2024-02-27 07:06:42,197216291,26490000,,0,,,out_of_stock,530,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
+1709019082,2024-02-27 07:31:22,197216291,26490000,,0,,,out_of_stock,530,0,tiki,https://tiki.vn/api/v2/products/197216291?platform=web&spid=197216310
